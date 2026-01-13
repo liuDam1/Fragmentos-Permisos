@@ -16,6 +16,13 @@
         android:onClick="intercambiar"
         android:text="Intercambiar" />
 
+    <Button
+        android:id="@+id/btnAceptar"
+        android:layout_width="match_parent"
+        android:layout_height="160dp"
+        android:layout_weight="1"
+        android:text="Permisos" />
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
